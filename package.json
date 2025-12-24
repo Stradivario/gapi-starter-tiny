@@ -1,0 +1,15 @@
+{
+  "name": "proba-gapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @gapi/cli start"
+  },
+  "author": "Kristiyan Tachev (@Stradivario)",
+  "license": "MIT",
+  "dependencies": {
+    "@gapi/core": "^1.8.184",
+    "@rxdi/altair": "^0.7.204",
+    "typescript": "^5.9.3"
+  }
+}
